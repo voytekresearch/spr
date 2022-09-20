@@ -1,0 +1,6 @@
+bycycle == 1.0.0
+fooof == 1.0.0
+matplotlib == 3.6.0
+neurodsp == 2.1.0
+numpy == 1.23.3
+scipy == 1.9.1
