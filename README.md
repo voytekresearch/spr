@@ -6,6 +6,9 @@ Notebooks and tutorials for analyzing nonsinusoidal neural oscillations and aper
 ### Setup
 
 ```bash
+git clone https://github.com/voytekresearch/spr2022.git
+cd spr2022
+
 pip install -r requirements.txt
 jupyter notebook
 ```
