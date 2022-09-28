@@ -1,9 +1,10 @@
 # SPR 2022
-### Pre-Conference Workshop #2: Methods for Analyzing Neural Oscillations and Aperiodic Activity ###
+## Pre-Conference Workshop #2: Methods for Analyzing Neural Oscillations and Aperiodic Activity ###
 
 Notebooks and tutorials for analyzing nonsinusoidal neural oscillations and aperiodic activity.
 
-### Setup
+## You have two options for running these notebooks:
+### Option 1: Run locally with your own Jupyter installation
 
 ```bash
 git clone https://github.com/voytekresearch/spr2022.git
@@ -13,7 +14,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-### Google Colaboratory
+### Option 2: Google Colaboratory (no Jupyter installation necessary)
 
 | Tutorial | Colab Link |
 | - | --- |
