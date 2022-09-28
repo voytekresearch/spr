@@ -3,6 +3,16 @@
 
 Notebooks and tutorials for analyzing nonsinusoidal neural oscillations and aperiodic activity.
 
+### Setup
+
+```bash
+git clone https://github.com/voytekresearch/spr2022.git
+cd spr2022
+
+pip install -r requirements.txt
+jupyter notebook
+```
+
 ### Google Colaboratory
 
 | Tutorial | Colab Link |
@@ -15,3 +25,4 @@ Notebooks and tutorials for analyzing nonsinusoidal neural oscillations and aper
 |  Bycycle - Introduction  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/voytekresearch/spr2022/blob/master/tutorials/02_bycycle/bycycle_00-Introduction.ipynb) |
 |  Bycycle - Algorithm  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/voytekresearch/spr2022/blob/master/tutorials/02_bycycle/bycycle_01-Algorithm.ipynb) |
 |  Bycycle - Real Data  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/voytekresearch/spr2022/blob/master/tutorials/02_bycycle/bycycle_02-RealData.ipynb) |
+
