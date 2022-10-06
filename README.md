@@ -3,6 +3,13 @@
 
 Notebooks and tutorials for analyzing nonsinusoidal neural oscillations and aperiodic activity.
 
+## Post-conference notes
+
+You can also run through the workshop on your own!
+- Start by watching Brad Voytek's 70-minute (!) introduction and overview of the methods and approaches [here](https://www.youtube.com/watch?v=bRsMdtldwpQ)
+- Or review the PDF of the slides (without the cool animations and narration) [here](presentation/Voytek-SPR.pdf)
+- Work through the tutorials below
+
 ## You have two options for running these notebooks:
 ### Option 1: Run locally with your own Jupyter installation
 
