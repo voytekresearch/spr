@@ -6,7 +6,7 @@ Notebooks and tutorials for analyzing nonsinusoidal neural oscillations and aper
 ## Post-conference notes
 
 You can also run through the workshop on your own!
-- Start by watching Brad Voytek's 70-minute (!) introduction and overview of the methods and approaches [here](https://www.youtube.com/watch?v=bRsMdtldwpQ)
+- Watch Brad Voytek's 70-minute (!) introduction and overview [here](https://www.youtube.com/watch?v=bRsMdtldwpQ)
 - Or review the PDF of the slides (without the cool animations and narration) [here](presentation/Voytek-SPR.pdf)
 - Work through the tutorials below
 
