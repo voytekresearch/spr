@@ -27,6 +27,29 @@ Notebooks and tutorials for analyzing nonsinusoidal neural oscillations and aper
 git clone https://github.com/voytekresearch/spr.git
 cd spr
 
-pip install -r requirements.txt
+# python3.11 -m venv spr_env
+
+# source spr_env/bin/activate
+
+# pip install --upgrade pip setuptools wheel
+
+# pip install -r requirements.txt
+
+# pip install ipykernel
+# python -m ipykernel install --user --name=spr_env --display-name "spr_env"
+
+# pip install --upgrade "matplotlib==3.6.0" --force-reinstall
+
+# pip install "numpy==1.25.2"
+# pip install "matplotlib-inline<0.1.7"
+
+
+python3.9 -m venv spr_env
+source spr_env/bin/activate
+
+pip install --upgrade pip
+pip install ipykernel "matplotlib-inline<0.1.7" -r requirements.txt
+
+python -m ipykernel install --user --name=spr_env --display-name "spr_env"
 jupyter notebook
 ```
