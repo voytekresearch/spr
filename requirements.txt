@@ -1,5 +1,5 @@
 bycycle == 1.0.0
-fooof == 1.0.0
+fooof == 1.1.0
 matplotlib == 3.6.0
 neurodsp == 2.2.1
 numpy == 1.25.2
