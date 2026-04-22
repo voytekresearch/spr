@@ -1,4 +1,4 @@
-# SPR 2023 (Español)
+# LII Congreso Nacional de Psicología CNEIP 2026 (Español)
 ## Métodos para analizar oscilaciones neuronales y actividad aperiódica en el cerebro ###
 
 Tutoriales y Jupyter Notebooks para analizar oscilaciones neuronales no sinusoidales y actividad aperiódica cerebral.
